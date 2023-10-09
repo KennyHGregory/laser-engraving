@@ -1,5 +1,7 @@
 # Description
 Vinyl sticker to make the emergency stop button more pronounced on the LaserPecker 4.
+# Pictures
+![LaserPecker 4 Emergency Stop Button Picture](./LaserPecker_4_Emergency_Stop_Button.jpg)
 # Notes
 The affect the lasers have on vinyl seems to be dependant on the color of the vinyl. Might just be the 1064nm laser.
 # Settings
@@ -22,5 +24,3 @@ Software: LaserPecker Design Space (PC)
 | Pass       | 2      |
 | Power      | 5      |
 | Depth      | 5      |
-# Pictures
-![LaserPecker 4 Emergency Stop Button Picture](./LaserPecker_4_Emergency_Stop_Button.jpg)
